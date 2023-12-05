@@ -1,0 +1,27 @@
+.tech {
+    display: inline-flex;
+    height: 980px;
+    padding: 0px 244px 0px 346px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 124px;
+    flex-shrink: 0;
+    background: #08115e;
+}
+
+h1 {
+    font-family: Montserrat;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p {
+    width: 600;
+    font-family: Hind;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
