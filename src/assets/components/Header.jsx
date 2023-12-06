@@ -1,4 +1,4 @@
-import image from './IMG_1128.jpg';
+import image from './IMG22.jpg';
 import './Header.css'
 
 export const Header = () => {
@@ -9,7 +9,7 @@ export const Header = () => {
                 <p className='name'>Hi, I am Namuun Byambaa</p>
                 <h1 className='front'>Frontend Developer</h1>
                 <div className='clearFix'>
-                    <img className="pic" style={{ width: 150, height: 200 }} srcSet={image} alt="A smiling image of Namuun Byambaa in front of green leaves" />
+                    <img className="pic" srcSet={image} alt="A smiling image of Namuun Byambaa in front of green leaves" />
                     <p className='aboutMe'>Sara is an exceptional developer known for her innovative solutions and exceptional coding abilities. She creates user-friendly applications and solves complex issues with ease. Her drive for excellence makes her a valuable asset to any project and a standout in the technology field.</p>
                 </div>
             </div>

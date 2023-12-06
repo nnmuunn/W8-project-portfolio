@@ -33,7 +33,7 @@ export const Projects = () => {
                     const repoImage = repoImages.find((img) => img.repoName === repo.name);
                     return (
                         <li key={repo.id}>
-                            <img src={repoImage?.imageUrl} alt={repo.name} />
+                            <img className="projectsImg" src={repoImage?.imageUrl} alt={repo.name} />
                             {repo.name} && {repo.description}
                         </li>
                     );

@@ -1,11 +1,10 @@
 .header {
     display: inline-flex;
-    padding: 332px 336px 64px 336px;
+    padding: 20.75rem 21rem 4rem 21rem;
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
-    gap: 199px;
-    background: #FFF;   
+    gap: 12.4375rem;
 
 }
 
@@ -18,7 +17,6 @@
 
 .name {
     color: #000;
-
     font-family: Montserrat;
     font-size: 32px;
     font-style: normal;
@@ -28,7 +26,6 @@
 
 .front {
     color: red;
-    font-family: Montserrat;
     font-size: 80px;
     font-style: normal;
     font-weight: 700;
@@ -36,7 +33,7 @@
 }
 
 .pic {
-    float: left;
+    object-fit: cover;
     width: 164px;
     height: 164px;
     border-radius: 50%;
@@ -49,9 +46,8 @@
 }
 
 .aboutMe {
-    width: 600px;
+    max-width: 600px;
     color: #000;
-    font-family: Hind;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -62,5 +58,3 @@
 h1 {
     color: red;
 }
-
-p {}

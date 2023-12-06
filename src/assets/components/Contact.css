@@ -1,0 +1,6 @@
+.myPic {
+    object-fit: cover;
+    width: 164px;
+    height: 164px;
+    border-radius: 50%;
+}

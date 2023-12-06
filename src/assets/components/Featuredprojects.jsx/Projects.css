@@ -22,7 +22,7 @@ li {
     list-style-type: none;
 }
 
-img {
+.projectsImg {
     width: 280px;
     height: 280px;
     flex-shrink: 0;
