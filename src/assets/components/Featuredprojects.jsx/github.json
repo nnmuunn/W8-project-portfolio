@@ -1,0 +1,38 @@
+[
+  {
+    "repoName": "exercise-w10-state-management",
+    "imageUrl": "src/assets/repo-images/img1.png"
+  },
+  {
+    "repoName": "project-pizza",
+    "imageUrl": "src/assets/repo-images/img2.png"
+  },
+  {
+    "repoName": "project-movies-vite",
+    "imageUrl": "src/assets/repo-images/img3.png"
+  },
+  {
+    "repoName": "project-survey-vite ",
+    "imageUrl": "src/assets/repo-images/img4.png"
+  },
+  {
+    "repoName": "project-guess-who ",
+    "imageUrl": "src/assets/repo-images/img1.png"
+  },
+  {
+    "repoName": "project-music-releases-vite ",
+    "imageUrl": "src/assets/repo-images/img1.png"
+  },
+  {
+    "repoName": "W7-project-happy-thoughts-vite ",
+    "imageUrl": "src/assets/repo-images/img1.png"
+  },
+  {
+    "repoName": "W2-project-chatbot",
+    "imageUrl": "src/assets/repo-images/img1.png"
+  },
+  {
+    "repoName": "W2-project-chatbot",
+    "imageUrl": "src/assets/repo-images/img1.png"
+  }
+]

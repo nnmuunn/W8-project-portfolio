@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import repoImages from "./githu.json";
+import repoImages from "./github.json";
 import './Projects.css'
 
 export const Projects = () => {
@@ -34,7 +34,7 @@ export const Projects = () => {
                     return (
                         <li key={repo.id}>
                             <img src={repoImage?.imageUrl} alt={repo.name} />
-                            {repo.name}
+                            {repo.name} && {repo.description}
                         </li>
                     );
                 })}
